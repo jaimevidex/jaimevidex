@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm jaimevidex</h1>
+<h3 align="center">A passionate Full-stack developer</h3>
+
+- I'm studying Computer Science at NOVA SCT
+
+<h3 align="left">GitHub Stats 📊</h3>
+
+[![jaimevidex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimevidex&show_icons=true&theme=aura_dark&hide_border=true)](https://github.com/jaimevidex)
+
 
 <!--
 **jaimevidex/jaimevidex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
