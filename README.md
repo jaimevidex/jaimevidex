@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jaimevidex</h1>
-<h3>I'm a passionate Full-stack developer exploring all the areas of study within Computer Science 👨‍💻</h3>
+<h3>I'm a passionate Full-stack developer majoring in Artificial Intteligence, exploring all the areas of study within Computer Science and Engineering 👨‍💻</h3>
 
-- 👨‍🎓 I'm studying Computer Science at NOVA SCT
+- 👨‍🎓 I'm studying Computer Science and Engineering at Instituto Superior Técnico
 
 <h3 align="left">GitHub Stats 📊</h3>
 
