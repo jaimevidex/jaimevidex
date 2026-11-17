@@ -1,36 +1,40 @@
-<h1 align="center">Hi 👋, I'm jaimevidex</h1>
-<h3>I'm a passionate Full-stack developer majoring in Artificial Intteligence, exploring all the areas of study within Computer Science and Engineering 👨‍💻</h3>
+<div align="center">
 
-- 👨‍🎓 I'm studying Computer Science and Engineering at Instituto Superior Técnico
+# Jaime Silva
 
-<h3 align="left">GitHub Stats 📊</h3>
+Software Engineer · Masters in Artificial Intelligence · Product Creation Enthusiast ·  Lisbon
 
-[![jaimevidex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimevidex&show_icons=true&theme=aura_dark&hide_border=true)](https://github.com/jaimevidex)
+<sub>MSc Computer Science and Engineering @ Instituto Superior Técnico</sub>
 
-### 🧰 Languages and Tools
+</div>
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-</br>
+<br>
 
-#
+### About
 
-### <h3 align="left">Contact me</h3>
+I'm a software engineer that just majored with a specialization in artificial intelligence. I like understanding how things work from the need down to the machine, so I try to spend time across every area of Computer Science rather than just one.
 
-<p><a href="www.linkedin.com/in/jaime-silva-579253235"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="jaimevidex"/></a></p><br><br>
+<br>
 
-#
+### Stack
 
-### <h3 align="left">Support me</h3>
-<p><a href="https://buymeacoffee.com/jaimevidex"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jaimevidex"/></a></p><br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nodejs,html,css,bash,git,github&theme=dark" alt="Java, Python, TypeScript, JavaScript, React, Node.js, HTML, CSS, Bash, Git, GitHub"/>
+</p>
 
-#
+<br>
+
+### Github
+
+<p>
+  <a href="https://github.com/jaimevidex?tab=followers"><img src="https://img.shields.io/github/followers/jaimevidex?style=flat-square&label=followers&color=1f2328&labelColor=30363d" alt="Followers"/></a>
+  <a href="https://github.com/jaimevidex?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjaimevidex&query=%24.public_repos&style=flat-square&label=repositories&color=1f2328&labelColor=30363d" alt="Public repositories"/></a>
+</p>
+
+<img src="https://ghchart.rshah.org/6e7681/jaimevidex" alt="jaimevidex's contribution graph" width="100%"/>
+
+<br>
+
+### Contact
+
+<a href="https://www.linkedin.com/in/jaime-silva-579253235"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/></a>
